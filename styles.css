@@ -8,6 +8,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
+    font-size: 3.2vw;
    }
    * {
     box-sizing: border-box;

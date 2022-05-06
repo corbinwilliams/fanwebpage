@@ -135,10 +135,13 @@ p{
   width: 50%;
 }
 ul{
-  text-align: center;
+    text-align: center;
     color:white;
     border: 15px solid red;
     padding: 50px;
     font-family: "Lucida Handwriting";
     font-size: 3vw;
+}
+img{
+  border: 15px solid red;
 }
